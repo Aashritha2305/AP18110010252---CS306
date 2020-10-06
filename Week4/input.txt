@@ -1,0 +1,9 @@
+void main()
+{
+  int a;//10252
+  a<=6.7 != -3.2
+  b=.9
+  -8e+1 /* Aashritha Kondaveeti
+*/
+  _end
+}
